@@ -84,4 +84,4 @@ If you are hosting frontend code somewhere without using DFX, you may need to ma
 
 
 Contact
-For questions or feedback, reach out to:Aditthya : [aditthyavarma007@ail.com]
+For questions or feedback, reach out to:Aditthya : [aditthyavarma007@mail.com]
