@@ -1,4 +1,4 @@
-This project is a Web3-based decentralized application (dApp) that [briefly describe what your project does]. It leverages [blockchain name, e.g., Ethereum, Polygon, Solana] and smart contracts to provide [key features, e.g., transparency, security, decentralization].
+This project is a Web3-based decentralized application (dApp). It leverages blockchain, e.g., Ethereum, Polygon, Solana and smart contracts to provide [key features, e.g., transparency, security, decentralization].
 
 Features
 Feature 1: [e.g., Smart contract-based transactions]
@@ -14,7 +14,7 @@ Blockchain: [e.g., Ethereum, Polygon, Binance Smart Chain]
 
 Smart Contracts: [e.g., Solidity, Rust]
 
-Frontend: [e.g., React.js, Next.js]
+Frontend: [e.g., html, javascript]
 
 Web3 Libraries: [e.g., Web3.js, Ethers.js]
 
@@ -23,8 +23,6 @@ Decentralized Storage: [e.g., IPFS, Arweave]
 Wallets: [e.g., MetaMask, WalletConnect]
 
 # `hello`
-
-Welcome to your new `hello` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
